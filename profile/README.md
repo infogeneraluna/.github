@@ -73,9 +73,9 @@ nombre-del-equipo/
     └── img/
 ```
 
-## 📚 Wiki y material de apoyo complementario
+## 📚 Wiki de material extra complementario
 
-Dentro de esta organización van a encontrar material de consulta real para acompañar la cursada y la resolución de los trabajos prácticos.
+Este material es complementario al que ya se les sube en cada clase en el EvaED institucional. También puede servirles a acompañar la cursada y la resolución de los trabajos prácticos. 
 
 ### C++
 
