@@ -38,19 +38,19 @@ Además de programar o producir el material solicitado, también es importante q
 
 ## Modalidad de entrega
 
-Cada entrega deberá realizarse dentro del repositorio asignado al equipo.
+Cada entrega deberá realizarse dentro del repositorio asignado al equipo en fecha y hora determinados por el EvaED. Allí tendrán que cargar los links formalmente hasta antes de la fecha y hora de cierre.
 
 Se espera que en cada repositorio estén, como mínimo:
 
 - El código fuente o archivos del trabajo.
-- Un `README.md` con una breve explicación del proyecto.
-- Instrucciones para ejecutar o abrir el trabajo, si corresponde.
+- Un `README.md` con una breve explicación del trabajo realizado.
+- Instrucciones para ejecutar o abrir el trabajo.
 - Los archivos complementarios necesarios para corregir la entrega.
 - Una organización clara por carpetas, en caso de haber múltiples entregas o versiones.
 
 ---
 
-## Estructura sugerida del repositorio
+## 🏗️ Estructura sugerida del repositorio
 
 ```bash
 nombre-del-equipo/
@@ -73,7 +73,7 @@ nombre-del-equipo/
     └── img/
 ```
 
-## Wiki y material de apoyo complementario
+## 📚 Wiki y material de apoyo complementario
 
 Dentro de esta organización van a encontrar material de consulta real para acompañar la cursada y la resolución de los trabajos prácticos.
 
