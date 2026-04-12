@@ -5,7 +5,7 @@
   />
 </p>
 
-<h1 align="center">💻 Informática General</h1>
+<h1 align="center">💻 Informática General - UNA | Artes Multimediales </h1>
 
 <p align="center">
   Espacio de trabajo colaborativo para la cursada, desarrollo y entrega de trabajos prácticos.
