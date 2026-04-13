@@ -1,3 +1,6 @@
+
+![flyer-ig](https://github.com/user-attachments/assets/dd83be9c-6fa5-4751-99d6-5e8b486064ea)
+
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=Bienvenidos+al+repositorio+de+Inform%C3%A1tica+General"
@@ -5,13 +8,12 @@
   />
 </p>
 
-<h1 align="center">💻 Informática General - UNA | Artes Multimediales </h1>
 
-<p align="center">
+<p align="left">
   Espacio de trabajo colaborativo para la cursada, desarrollo y entrega de trabajos prácticos.
 </p>
 
-<p align="center">
+<p align="left">
   <strong>Docentes:</strong> Lic. Juan José María Tirigall, Esp. Lic. Noelia Melina Qualindi
 </p>
 
