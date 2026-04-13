@@ -3,18 +3,17 @@
 
 <p align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vLeft=true&width=1000&lines=Bienvenidos+al+repositorio+de+Inform%C3%A1tica+General"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&left=true&vLeft=true&width=1000&lines=Bienvenidos+al+repositorio+de+Inform%C3%A1tica+General"
     alt="Typing SVG"
   />
 </p>
 
-
 <p align="left">
-  Espacio de trabajo colaborativo para la cursada, desarrollo y entrega de trabajos prácticos.
+  <strong>Docentes:</strong> Lic. Juan José María Tirigall, Esp. Lic. Noelia Melina Qualindi
 </p>
 
 <p align="left">
-  <strong>Docentes:</strong> Lic. Juan José María Tirigall, Esp. Lic. Noelia Melina Qualindi
+  Espacio de trabajo colaborativo para la cursada, desarrollo y entrega de trabajos prácticos.
 </p>
 
 ---
