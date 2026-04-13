@@ -1,7 +1,7 @@
 
 ![flyer-ig](https://github.com/user-attachments/assets/dd83be9c-6fa5-4751-99d6-5e8b486064ea)
 
-<p align="center">
+<p align="left">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=Bienvenidos+al+repositorio+de+Inform%C3%A1tica+General"
     alt="Typing SVG"
@@ -34,7 +34,7 @@ Además de programar o producir el material solicitado, también es importante q
 - Cada equipo tendrá un repositorio propio.
 - El nombre del repositorio será el **nombre del equipo** que hayan elegido.
 - A cada integrante se le otorgarán permisos usando su **usuario de GitHub** para que pueda trabajar dentro de ese repositorio.
-- Cada equipo deberá subir allí sus **trabajos prácticos**, avances y versión final de entrega.
+- Cada equipo deberá subir allí sus **trabajos prácticos**, avances y versión final de entrega. En caso de tener que recuperar, también se deberá subir el trabajo al repositorio con el nombre `tp1-recuperatorio`.
 
 ---
 
@@ -74,47 +74,3 @@ nombre-del-equipo/
     ├── js/
     └── img/
 ```
-
-## 📚 Wiki de material extra complementario
-
-Este material es complementario al que ya se les sube en cada clase en el EvaED institucional. También puede servirles a acompañar la cursada y la resolución de los trabajos prácticos. 
-
-### C++
-
-- [Referencia general de C++ (cppreference)](https://en.cppreference.com/w/cpp/language)
-- [Classes (cppreference)](https://en.cppreference.com/w/cpp/language/classes.html)
-- [Constructors and member initializer lists (cppreference)](https://en.cppreference.com/w/cpp/language/initializer_list.html)
-- [Access specifiers / encapsulación (cppreference)](https://en.cppreference.com/w/cpp/language/access.html)
-- [RAII (cppreference)](https://en.cppreference.com/w/cpp/language/raii.html)
-- [C++ documentation (Microsoft Learn)](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170)
-- [Classes and Structs (Microsoft Learn)](https://learn.microsoft.com/en-us/cpp/cpp/classes-and-structs-cpp?view=msvc-170)
-- [Constructors (Microsoft Learn)](https://learn.microsoft.com/en-us/cpp/cpp/constructors-cpp?view=msvc-170)
-
-### Ncurses
-
-- [Sitio oficial de ncurses](https://invisible-island.net/ncurses/)
-- [Writing Programs with NCURSES](https://invisible-island.net/ncurses/ncurses-intro.html)
-- [NCURSES Programming HOWTO (PDF)](https://invisible-island.net/ncurses/howto/NCURSES-Programming-HOWTO.pdf)
-- [Manual pages de ncurses](https://invisible-island.net/ncurses/man/ncurses.3x.html)
-- [NCURSES FAQ](https://invisible-island.net/ncurses/ncurses.faq.html)
-
-### POO sin herencia
-
-En esta materia la parte de Programación Orientada a Objetos se trabaja **sin herencia**, por lo tanto el material de consulta se enfoca en:
-
-- clases y objetos
-- atributos y métodos
-- encapsulación
-- constructores
-- inicialización
-- organización del código
-- buenas prácticas de diseño básico
-
-Material sugerido:
-
-- [Classes (cppreference)](https://en.cppreference.com/w/cpp/language/classes.html)
-- [Access specifiers / encapsulación (cppreference)](https://en.cppreference.com/w/cpp/language/access.html)
-- [Constructors and member initializer lists (cppreference)](https://en.cppreference.com/w/cpp/language/initializer_list.html)
-- [RAII (cppreference)](https://en.cppreference.com/w/cpp/language/raii.html)
-- [Classes and Structs (Microsoft Learn)](https://learn.microsoft.com/en-us/cpp/cpp/classes-and-structs-cpp?view=msvc-170)
-- [Constructors (Microsoft Learn)](https://learn.microsoft.com/en-us/cpp/cpp/constructors-cpp?view=msvc-170)
