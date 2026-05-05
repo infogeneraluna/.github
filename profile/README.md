@@ -51,25 +51,16 @@ Se espera que en cada repositorio estén, como mínimo:
 
 ---
 
-## 🏗️ Estructura sugerida del repositorio
+## 🏗️ Estructura del repositorio
 
 ```bash
-nombre-del-equipo/
+apellido-apellido-apellido/
 │
 ├── README.md
-├── tp1/
-│   ├── main.cpp
-│   └── main_ejecutable
-│
-├── tp2/
-│   ├── main.cpp
-│   ├── Ejemplo_Clase.cpp
-│   ├── classes/                 # opcional, para separar clases de POO
-│   └── main_ejecutable
-│
-└── tp3/
-    ├── src/
-    │   └── index.html
-    ├── js/
-    └── img/
+├── apellido_apellido_apellido_entrega_tp1
+├── apellido_apellido_apellido_recuperatorio_tp1 # en caso de recuperar
+├── apellido_apellido_apellido_entrega_tp2
+├── apellido_apellido_apellido_entrega_tp3
+
+
 ```
