@@ -57,9 +57,12 @@ Se espera que en cada repositorio estén, como mínimo:
 apellido-apellido-apellido/
 │
 ├── README.md
+├── apellido_apellido_apellido_prentrega_tp1
 ├── apellido_apellido_apellido_entrega_tp1
 ├── apellido_apellido_apellido_recuperatorio_tp1 # en caso de recuperar
+├── apellido_apellido_apellido_preentrega_tp2
 ├── apellido_apellido_apellido_entrega_tp2
+├── apellido_apellido_apellido_preentrega_tp3
 ├── apellido_apellido_apellido_entrega_tp3
 
 
