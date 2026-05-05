@@ -62,8 +62,11 @@ apellido-apellido-apellido/
 ├── apellido_apellido_apellido_recuperatorio_tp1 # en caso de recuperar
 ├── apellido_apellido_apellido_preentrega_tp2
 ├── apellido_apellido_apellido_entrega_tp2
+├── apellido_apellido_apellido_recuperatorio_tp2 # en caso de recuperar
 ├── apellido_apellido_apellido_preentrega_tp3
 ├── apellido_apellido_apellido_entrega_tp3
+├── apellido_apellido_apellido_recuperatorio_tp3 # en caso de recuperar
 
 
 ```
+Nota: recordar siempre subir las carpetas de cada TP en la raíz del repositorio y evitar subir carpetas anidadas, es decir, una dentro de otra. Respetar la nomenclatura de las carpetas, y que haya una correspondiente a la preentrega, entrega y recuperatorio de cada TP. 
